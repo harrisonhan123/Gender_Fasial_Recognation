@@ -23,7 +23,6 @@ Identifikasi jenis kelamin merupakan aspek penting dalam banyak aplikasi, sepert
 # Proses yang dilakukan
 Untuk sub-kolompok kami ( Harrison & Fitrah ), kami menganalisa dengan model Resnet50 menggunakan library Keras. Urutan proses yang kami lakukan adalah sebagai berikut :
 1. Preprocessing
-   Dari dataset total kami membagi gambar menjadi 2 folder Male dan Female sebagai classes nya.
 2. Arsitektur Model
 3. Hyperparameter
 4. Evaluasi
