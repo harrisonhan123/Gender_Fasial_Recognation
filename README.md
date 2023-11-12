@@ -7,3 +7,7 @@ Ini adalah projek Gender Facial Recognation kelompok CV B =
 4. Yogi
 5. Fitrah
 6. Harrison
+
+# Latar Belakang
+**Kebutuhan Identifikasi Gender**
+Identifikasi jenis kelamin merupakan aspek penting dalam banyak aplikasi, seperti keamanan, analisis demografi, dan pengalaman pengguna. Face recognition menjadi solusi utama untuk mengenali jenis kelamin seseorang secara otomatis
